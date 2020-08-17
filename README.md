@@ -1,2 +1,2 @@
 # wayra
-web de prueba para wyara web diseño
+web de prueba para wayra web diseño
